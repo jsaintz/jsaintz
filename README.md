@@ -15,7 +15,9 @@
   <img align="center" alt="js-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="js-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="js-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+ <img align="center" alt="js-codewar" height="150" width="150" src="https://www.codewars.com/users/jsaintz/badges/micro">
 
+  ![My Codewarrior Profile Badge](https://www.codewars.com/users/jsaintz/badges/micro)
 
 </div>
   
