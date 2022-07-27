@@ -15,7 +15,7 @@
   <img align="center" alt="js-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="js-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="js-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="right" alt="js-pic" height="150" style="border-radius:100px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQFmPa7cxWT5vw/profile-displayphoto-shrink_200_200/0/1572314716200?e=1655337600&v=beta&t=mZxogznPIOT0mYiMvIMVxfW248KahWHP6wFj4lx9qOQ">
+
 
 </div>
   
